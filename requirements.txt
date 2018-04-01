@@ -4,3 +4,4 @@ psycopg2==2.7.4
 pyscape-client==2015.3
 requests==2.18.4
 urllib3==1.22
+django-heroku==0.3.1
