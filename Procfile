@@ -1,1 +1,1 @@
-web: gunicorn tbp_test.wsgi --log-file -
+web: gunicorn tbp_test.tbp_test.wsgi --log-file -
